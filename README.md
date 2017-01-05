@@ -1,3 +1,9 @@
+### Apple Developer documentation
+
+**Memory**
+
+(About Virtual Memory System)[https://developer.apple.com/library/content/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html]
+
 ### Official documentation
 
 - Clang compiler -  [official documentation](http://clang.llvm.org/docs/index.html)
