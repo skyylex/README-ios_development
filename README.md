@@ -2,7 +2,7 @@
 
 **Memory**
 
-(About Virtual Memory System)[https://developer.apple.com/library/content/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html]
+[About Virtual Memory System](https://developer.apple.com/library/content/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html)
 
 ### Official documentation
 
