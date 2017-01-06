@@ -1,6 +1,10 @@
 ### Apple Developer documentation
 
-**Memory**
+#### Memory**
+
+**Automatic Reference Counting**
+
+- Mike Ash explanation (for Xcode 4.2 version) - https://www.mikeash.com/pyblog/friday-qa-2011-09-30-automatic-reference-counting.html
 
 [About Virtual Memory System](https://developer.apple.com/library/content/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html)
 
