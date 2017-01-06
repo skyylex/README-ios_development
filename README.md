@@ -1,6 +1,6 @@
 ### Apple Developer documentation
 
-#### Memory**
+#### Memory
 
 **Automatic Reference Counting**
 
